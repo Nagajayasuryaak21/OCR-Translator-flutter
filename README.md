@@ -1,4 +1,4 @@
-# translator Application using Flutter
+# Translator Application using Flutter
 
 A mobile application that allows users to take a picture of a text using OCR and translate it to their preferred language. The application currently supports almost 100 languages.
 
