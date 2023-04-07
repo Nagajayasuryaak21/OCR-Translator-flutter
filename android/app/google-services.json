@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "231020081323",
+    "project_id": "translator-8c57d",
+    "storage_bucket": "translator-8c57d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:231020081323:android:cb80e43e33a6c38c5387ee",
+        "android_client_info": {
+          "package_name": "com.surya.translator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "231020081323-89bk324fr16i1fu8fcp3gqjtmlha3csk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwhX5bk06Ct-AwV0rMNFHgyWrlNkjNlyY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "231020081323-89bk324fr16i1fu8fcp3gqjtmlha3csk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
